@@ -12,6 +12,9 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 ### 2) Installation
 In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. You can follow options a), b), or c) below to run the notebooks:
 
+a) If you don't want to install anything you use the following Binder instances:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main)
+
  a) In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
  b) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
