@@ -1,8 +1,8 @@
 # UND TKET Workshop, March 2023
 
-On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET Workshop. It consists of two 1 hour 30 minute lectures. This workshop will explore tools available in [TKET](https://www.quantinuum.com/developers/tket), providing a comprehensive, feature-focused tour of the platform.
+On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET Workshop. This workshop will explore tools available in [TKET](https://www.quantinuum.com/developers/tket), providing a comprehensive, feature-focused platform tour. It consists of two 1 hour 30-minute lectures.
 
-[TKET](https://www.quantinuum.com/developers/tket) is the leading open-source developer toolkit designed to compile and optimize quantum programs. It is platform inclusive allowing it to target the world’s leading quantum hardware, simulators, and quantum computing SDKs like Qiskit. It also enhances the performance of every Quantinuum product, including cybersecurity key-generation platform Quantum Origin, quantum computational chemistry and materials science package InQuanto, and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
+[TKET](https://www.quantinuum.com/developers/tket) is one of the leading open-source quantum software development toolkits (SDKs) designed to compile and optimize quantum programs. It is platform inclusive, allowing it to target the world’s leading quantum hardware, simulators, and other quantum SDKs like Qiskit and PennyLane. It also enhances the performance of other Quantinuum products, such as the quantum computational chemistry and materials science package InQuanto and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
 ## Installation
 First, make sure that a recent version of Python is installed on your machine. You can check this in a terminal:
