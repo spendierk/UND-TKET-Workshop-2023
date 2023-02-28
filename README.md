@@ -17,6 +17,7 @@ In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, re
  2. Once the environment is ready, you should see a Jupyter notebook interface.
  3. Click on the script "TEST_Binder.ipynb" to open it in a new tab.
  4. Run the script by clicking on the "Run" button or using the keyboard shortcut "Shift + Enter".
+Note that Binder links are temporary and will expire after a period of inactivity, so you'll need to generate a new link each time you want to launch the environment.
 
 #### b) In case you want to run the Jupyter notebooks on your computer,
 I suggest you install Anaconda: https://www.anaconda.com/products/distribution. Once installed, open and run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
