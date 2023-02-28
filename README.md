@@ -12,22 +12,21 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 ### 2) Installation
 In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. You can follow options a), b), or c) below to run the notebooks:
 
-a) If you don't want to install anything you use the following Binder instances:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UCCS-TKET-workshop-2022/main)
+a) If you don't want to install anything you use click on this Binder icon:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/UND-TKET-Workshop-2023/main)
+ 1. Wait for the Binder environment to launch (this may take a few minutes).
+ 2. Once the environment is ready, you should see a Jupyter notebook interface.
+ 3. Click on the script "Test_Binder" to open it in a new tab.
+ 4. Run the script by clicking on the "Run" button or using the keyboard shortcut "Shift + Enter".
 
- a) In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
+ b) In case you want to run the Jupyter notebooks on your computer, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
- b) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
+ c) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
 `python --version`
 I would recommend using either Python 3.9 or Python 3.10.
 
-c) Use the following Binder instances
 
-Note that Binder instances are temporary and will be shut down if you leave them idle for too long. You can save your work by downloading your notebooks or pushing them to a GitHub repository.
-
-### 3) Download and run this Jupyter notebook
-
-### 4) If you have time:
+### 3) If you have time:
 Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/index.html)
 
 Further references that may be useful after the workshop if you want to explore more about TKET:
