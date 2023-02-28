@@ -4,7 +4,12 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET 
 
 [TKET](https://www.quantinuum.com/developers/tket) is one of the leading open-source quantum software development toolkits (SDKs) designed to compile and optimize quantum programs. It is platform inclusive, allowing it to target the world’s leading quantum hardware, simulators, and other quantum SDKs like Qiskit and PennyLane. It also enhances the performance of other Quantinuum products, such as the quantum computational chemistry and materials science package InQuanto and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
-## Installation
+## Please complete prior to the workshop:
+### 1) Sign up for an IBM Quantum account
+You can sign up for IBM's free access to their superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
+https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
+
+### 2) Python Installation on your computer
 First, make sure that a recent version of Python is installed on your machine. You can check this in a terminal:
 
 `python --version`
@@ -23,11 +28,12 @@ Additional extension modules are available for interfacing pytket with several q
 
 Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
 
-## Useful Links
+#### Useful Links
 
 - [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
 - [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
 - [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
+
 
 ## Workshop Contents
 
@@ -37,16 +43,12 @@ A quantum circuit forms the unit of computation that we can send off to a quantu
 ### Part 2 (1.5 hours): The Quantum compiler flow
 In part 1, we have covered enough to be able to design the quantum circuits we want to run, submit them to a simulator backend, and interpret the results in a meaningful way. This is all we need to run a quantum computation and observe some basic results. If you want to run your circuit on a real quantum processor, we need to consider the necessary steps for circuit compilation. In this part of the workshop, we will explore the quantum compiler toolchain. The primary goals of compilation are two-fold: solving the backend constraints to get from the abstract model to something runnable, and optimizing/simplifying the circuit to make it faster, smaller, and less prone to noise.
 
-In order to run a circuit on one of IBM's free superconducting devices, you will need to setup a free IBM Q account: 
-https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
-
 
 ## Survey
 Throughout the TKET workshop, you will be able to gain a lot of hands-on experience with TKET. It would be very helpful for us to know what you found particularly difficult. The installation, the interface, the documentation or did you even find a bug? How did you find the covered material (underwhelming, overwhelming, just right), and what suggestions do you have for improvement? Please let us know by filling out this short survey that will take about 5 minutes to complete:
 https://forms.office.com/r/b8N2XK20xf
 
 ## Contact
-
 If any questions arise, don't hesitate to contact me via email
 [kathrin.spendier@quantinuum.com](mailto:kathrin.spendier@quantinuum.com). 
 
