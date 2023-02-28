@@ -1,4 +1,4 @@
-# UND-TKET-Workshop-2023
+# UND TKET Workshop, March 2023
 
 On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET Workshop. It consists of two 1 hour 30 minute lectures. This workshop will explore tools available in [TKET](https://www.quantinuum.com/developers/tket), providing a comprehensive, feature-focused tour of the platform.
 
