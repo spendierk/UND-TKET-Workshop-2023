@@ -11,23 +11,15 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
 ### 2) Installation
 
-In this worshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
+ a) In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
-In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
+ b) In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
 
 `python --version`
 
-I would recommend using either Python 3.10 or Python 3.11.
+I would recommend using either Python 9.9, 3.10 or Python 3.11.
 
-There is currently an implementation of TKET available in the form of the `pytket` python package that is installed by running 
-
-`pip install pytket`
-
-Additional extension modules are available for interfacing pytket with several quantum software packages, including: Qiskit, Cirq, PennyLane, pyQuil, and others. For this workshop, also install the Qiskit extension:
-
-`pip install pytket-qiskit` 
-
-Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
+### 3) Download and run this Jupyter notebook
 
 ### 4) If you have time:
 Have a look at the [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
