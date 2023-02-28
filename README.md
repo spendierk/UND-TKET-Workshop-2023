@@ -16,7 +16,7 @@ In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, re
 
  b) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
 `python --version`
-I would recommend using either Python 3.9, 3.10 or Python 3.11.
+I would recommend using either Python 3.9 or Python 3.10.
 
 c) Use the following Binder instances
 
