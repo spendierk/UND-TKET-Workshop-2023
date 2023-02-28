@@ -15,7 +15,7 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
  b) In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
 `python --version`
-I would recommend using either Python 9.9, 3.10 or Python 3.11.
+I would recommend using either Python 3.9, 3.10 or Python 3.11.
 
 ### 3) Download and run this Jupyter notebook
 
