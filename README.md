@@ -9,14 +9,15 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET 
 You can sign up for IBM's free access to their superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
 https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
-### 2) Python Installation on your computer
-First, make sure that a recent version of Python is installed on your machine. You can check this in a terminal:
+### 2) Installation
+
+In this worshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
+
+In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
 
 `python --version`
 
 I would recommend using either Python 3.10 or Python 3.11.
-
-To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
 There is currently an implementation of TKET available in the form of the `pytket` python package that is installed by running 
 
