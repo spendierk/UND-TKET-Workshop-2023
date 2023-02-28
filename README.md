@@ -14,15 +14,13 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
  a) In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
  b) In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
-
 `python --version`
-
 I would recommend using either Python 9.9, 3.10 or Python 3.11.
 
 ### 3) Download and run this Jupyter notebook
 
 ### 4) If you have time:
-Have a look at the [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
+Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/index.html)
 
 Further references that may be useful after the workshop if you want to explore more about TKET:
 - [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
