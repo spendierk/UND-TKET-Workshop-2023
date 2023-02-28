@@ -10,12 +10,17 @@ You can sign up for IBM's free access to their superconducting devices to run a 
 https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
 ### 2) Installation
+In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. You can follow options a), b), or c) below to run the notebooks:
 
- a) In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
+ a) In case you don't have access to Python or a Jupyter Notebook yet, I suggest you install Anaconda: https://www.anaconda.com/products/distribution
 
- b) In case you have Python already installed on your machine, you should check your curent Python version in a terminal by typing
+ b) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
 `python --version`
 I would recommend using either Python 3.9, 3.10 or Python 3.11.
+
+c) Use the following Binder instances
+
+Note that Binder instances are temporary and will be shut down if you leave them idle for too long. You can save your work by downloading your notebooks or pushing them to a GitHub repository.
 
 ### 3) Download and run this Jupyter notebook
 
