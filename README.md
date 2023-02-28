@@ -28,9 +28,10 @@ Additional extension modules are available for interfacing pytket with several q
 
 Documentation and examples are available → https://github.com/CQCL/pytket-extensions.
 
-#### Useful Links
+### 4) If you have time:
+Have a look at the [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
 
-- [Pytket User manual](https://cqcl.github.io/pytket/manual/index.html)
+Further references that may be useful after the workshop if you want to explore more about TKET:
 - [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
 - [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
 
