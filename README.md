@@ -14,14 +14,17 @@ In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, re
 
 #### a) If you don't want to install anything you use click on "launch Binder":
 [launch Binder](https://mybinder.org/v2/gh/spendierk/UND-TKET-Workshop-2023/main)
+
  1. Wait for the Binder environment to launch (this may take a few minutes).
  2. Once the environment is ready, you should see a Jupyter notebook interface.
  3. Click on the script "TEST_Binder.ipynb" to open it in a new tab.
  4. Run the script by clicking on the "Run" button or using the keyboard shortcut "Shift + Enter".
 
-#### b) In case you want to run the Jupyter notebooks on your computer, I suggest you install Anaconda: https://www.anaconda.com/products/distribution. Once installed, open and run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
+#### b) In case you want to run the Jupyter notebooks on your computer,
+I suggest you install Anaconda: https://www.anaconda.com/products/distribution. Once installed, open and run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
 
-#### c) In case you have Python already installed on your machine, you should check your current Python version in a terminal by typing
+#### c) In case you have Python already installed on your machine,
+you should check your current Python version in a terminal by typing
 `python --version`
 I would recommend using either Python 3.9 or Python 3.10. Run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
 
