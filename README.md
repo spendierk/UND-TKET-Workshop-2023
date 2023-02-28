@@ -12,9 +12,7 @@ https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 ### 2) Installation
 In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. You can follow options a), b), or c) below to run the notebooks:
 
-#### a) If you don't want to install anything you use click on "launch Binder":
-[launch Binder](https://mybinder.org/v2/gh/spendierk/UND-TKET-Workshop-2023/main)
-
+#### a) If you don't want to install anything you use click on "launch Binder": [launch Binder](https://mybinder.org/v2/gh/spendierk/UND-TKET-Workshop-2023/main)
  1. Wait for the Binder environment to launch (this may take a few minutes).
  2. Once the environment is ready, you should see a Jupyter notebook interface.
  3. Click on the script "TEST_Binder.ipynb" to open it in a new tab.
