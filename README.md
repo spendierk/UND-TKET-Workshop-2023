@@ -44,7 +44,7 @@ A quantum circuit forms the unit of computation that we can send off to a quantu
 In part 1, we have covered enough to be able to design the quantum circuits we want to run, submit them to a simulator backend, and interpret the results in a meaningful way. This is all we need to run a quantum computation and observe some basic results. If you want to run your circuit on a real quantum processor, we need to consider the necessary steps for circuit compilation. In this part of the workshop, we will explore the quantum compiler toolchain. The primary goals of compilation are two-fold: solving the backend constraints to get from the abstract model to something runnable, and optimizing/simplifying the circuit to make it faster, smaller, and less prone to noise.
 
 
-## Survey
+## Survey (after the workshop)
 Throughout the TKET workshop, you will be able to gain a lot of hands-on experience with TKET. It would be very helpful for us to know what you found particularly difficult. The installation, the interface, the documentation or did you even find a bug? How did you find the covered material (underwhelming, overwhelming, just right), and what suggestions do you have for improvement? Please let us know by filling out this short survey that will take about 5 minutes to complete:
 https://forms.office.com/r/b8N2XK20xf
 
