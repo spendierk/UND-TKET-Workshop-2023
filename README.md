@@ -26,7 +26,7 @@ You should check your current Python version in a terminal by typing
 I would recommend using either Python 3.9 or Python 3.10. Run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
 
 ### 2) Sign up for an IBM Quantum account
-You can sign up for to get free access to some of IBM's superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
+You can sign up to get free access to some of IBM's superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
 https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
 ### 3) Read this [Short introduction to Quantum Computing](https://www.kattemolle.com/KattemolleShortIntroToQC.pdf)
