@@ -5,11 +5,8 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), welcome to the UND TKET 
 [TKET](https://www.quantinuum.com/developers/tket) is one of the leading open-source quantum software development toolkits (SDKs) designed to compile and optimize quantum programs. It is platform inclusive, allowing it to target the world’s leading quantum hardware, simulators, and other quantum SDKs like Qiskit and PennyLane. It also enhances the performance of other Quantinuum products, such as the quantum computational chemistry and materials science package InQuanto and lambeq, Quantinuum's quantum natural language processing and computational linguistics toolkit. 
 
 ## Please complete prior to the workshop:
-### 1) Sign up for an IBM Quantum account
-You can sign up for IBM's free access to their superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
-https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
-### 2) Installation
+### 1) Installation
 In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, refer to the following: https://jupyter.org/. You can follow options a), b), or c) below to run the notebooks:
 
 #### a) If you don't want to install anything on your computer just click on "launch Binder" (Open in a new tab) to run all the notebooks in a browser: [launch Binder](https://mybinder.org/v2/gh/spendierk/UND-TKET-Workshop-2023/main)
@@ -28,8 +25,15 @@ you should check your current Python version in a terminal by typing
 `python --version`
 I would recommend using either Python 3.9 or Python 3.10. Run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
 
+### 2) Sign up for an IBM Quantum account
+You can sign up for IBM's free access to their superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
+https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
-### 3) If you have time:
+### 3) Read [Short introduction to Quantum Computing]()
+These notes offer physicists a brief introduction to quantum computation. The reading time is about two hours if you also do the small exercises. This should give
+you a good but basic understanding of the notation and the most important concepts.
+
+### 4) If you have time:
 Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/index.html). Further references that may be useful after the workshop if you want to explore more about TKET:
 - [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
 - [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
