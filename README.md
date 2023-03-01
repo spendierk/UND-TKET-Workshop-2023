@@ -29,7 +29,7 @@ I would recommend using either Python 3.9 or Python 3.10. Run the [TEST_your_env
 You can sign up for IBM's free access to their superconducting devices to run a quantum circuit on a real quantum computer. To do this, you will need to set up a free IBM Q account: 
 https://quantum-computing.ibm.com/composer/docs/iqx/manage/account/
 
-### 3) Read [Short introduction to Quantum Computing]()
+### 3) Read this [Short introduction to Quantum Computing](https://www.kattemolle.com/KattemolleShortIntroToQC.pdf)
 These notes offer physicists a brief introduction to quantum computation. The reading time is about two hours if you also do the small exercises. This should give
 you a good but basic understanding of the notation and the most important concepts.
 
