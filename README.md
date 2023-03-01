@@ -30,9 +30,7 @@ I would recommend using either Python 3.9 or Python 3.10. Run the [TEST_your_env
 
 
 ### 3) If you have time:
-Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/index.html)
-
-Further references that may be useful after the workshop if you want to explore more about TKET:
+Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/index.html). Further references that may be useful after the workshop if you want to explore more about TKET:
 - [Pytket API docs](https://cqcl.github.io/tket/pytket/api/)
 - [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
 
