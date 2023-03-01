@@ -21,7 +21,16 @@ In this workshop we will use Jupyter notebooks. To run the Jupyter notebooks, re
 Note that Binder links are temporary and will expire after a period of inactivity, so you'll need to generate a new link each time you want to launch the environment.
 
 #### b) In case you want to run the Jupyter notebooks on your computer,
-I suggest you install Anaconda: https://www.anaconda.com/products/distribution. Once installed, open and run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop.
+I suggest you install Anaconda: https://www.anaconda.com/products/distribution. Once installed, open and run the [TEST_your_environment.ipynb](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/TEST_your_environment.ipynb) Jupyter notebook to make sure you are set for the workshop Then run the following Python code to generate the first of four Bell states, also known as the "Hello World" example in quantum computing"
+```python
+from pytket import Circuit
+from pytket.circuit.display import render_circuit_jupyter
+
+circ = Circuit(2) #initialize the circuit class acting on two qubits
+circ.H(0).CX(0,1)
+
+render_circuit_jupyter(circ)
+```
 
 #### c) In case you have Python already installed on your machine,
 you should check your current Python version in a terminal by typing
