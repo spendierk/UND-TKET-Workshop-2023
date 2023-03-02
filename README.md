@@ -39,9 +39,9 @@ Have a look at the [PyTKET User manual](https://cqcl.github.io/pytket/manual/ind
 - [Pytket Notebook Examples](https://github.com/CQCL/pytket/tree/main/examples)
 
 
-## Workshop Contents (notebooks will be available the day of the workshop here)
+## Workshop Contents
 
-### Part 1 (1.5 hours): Quantum circuit construction and running on classical backends
+### Part 1 (1.5 hours): [Quantum circuit construction and running on classical backends](https://github.com/spendierk/UND-TKET-Workshop-2023/blob/main/UND_TKET_Workshop_part1.ipynb)
 A quantum circuit forms the unit of computation that we can send off to a quantum co-processor: there is the main program running on the classical host computer, which routinely sends off jobs to a quantum computer. We will use Quantinuum’s quantum software development kit called TKET to discuss basic quantum gates, build quantum circuits and perform measurements. Moreover, when working with quantum circuits, we may want access to the quantum state prepared by our circuit. This can be helpful if we want to check whether our circuit construction is correct. We will use different classical simulators, such as a statevector simulator and a simulator that mimics a perfect quantum computer. 
 
 ### Part 2 (1.5 hours): The Quantum compiler flow
