@@ -1,6 +1,5 @@
 pytket
 pytket-qiskit
-pytket-quantinuum
 matplotlib
 pandas 
 seaborn
