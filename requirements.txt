@@ -4,4 +4,3 @@ matplotlib
 pandas 
 seaborn
 pylatexenc
-graphviz
